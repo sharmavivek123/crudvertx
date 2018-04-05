@@ -1,0 +1,50 @@
+
+tsquid:S1192"`Define a constant instead of duplicating this literal "application/json; charset=utf-8" 4 times.(—µï
+`squid:S1192"LDefine a constant instead of duplicating this literal "/assets/all" 3 times.(Ü¹Û&
+esquid:S1192"PDefine a constant instead of duplicating this literal "/assets/all/:id" 4 times.(±®ßÂ
+bsquid:S1192"MDefine a constant instead of duplicating this literal "content-type" 5 times.(¨×¯à
+Esquid:S1068"0Remove this unused "objectMapper" private field.(œ‡¨ 
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«þ¦”ÿÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿ¨¸B
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ä˜ƒûþÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Á¹èî
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(§çï.
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜îŽöÿÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼Åîg
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡ëôúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Þ“—­ÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(•Úèê
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(©¬èùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(îÒ¼áúÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ä¼»
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ç”¡»ÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯Ôâêúÿÿÿÿ
+esquid:HiddenFieldCheck"@Rename "objectMapper" which hides the field declared at line 39.(¡ôó‰ùÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+Gsquid:S1481"-Remove this unused "document" local variable.(šÉªÑýÿÿÿÿ
+Ksquid:S1481"1Remove this unused "objectMapper" local variable.(¡ôó‰ùÿÿÿÿ
+^squid:S2259"DA "NullPointerException" could be thrown; "whisky" is nullable here.(¯Ôâêúÿÿÿÿ
+Ysquid:S2259"DA "NullPointerException" could be thrown; "whisky" is nullable here.(ãìêÀ
+Zsquid:S1854"@Remove this useless assignment to local variable "objectMapper".(¡ôó‰ùÿÿÿÿ
+Vsquid:S1854"<Remove this useless assignment to local variable "document".(šÉªÑýÿÿÿÿ
+Vsquid:UselessImportCheck"4Remove this unused import 'io.vertx.core.json.Json'.(ÀªÏö
+jsquid:UselessImportCheck"CRemove this unused import 'io.vertx.ext.web.handler.StaticHandler'.(õÏ¹Éüÿÿÿÿ
+gsquid:UselessImportCheck"FRemove this unused import 'org.codehaus.jackson.map.util.JSONPObject'.(òÅÞ
+wsquid:UselessImportCheck"URemove this unused import 'com.couchbase.client.java.util.features.CouchbaseFeature'.(Úëðá
+_squid:UselessImportCheck"8Remove this unused import 'io.vertx.core.buffer.Buffer'.(àÜ­»üÿÿÿÿ
+Zsquid:UselessImportCheck"8Remove this unused import 'io.vertx.core.net.NetServer'.(¢Šé¹
+^squid:UselessImportCheck"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ
+Zsquid:UselessImportCheck"8Remove this unused import 'io.vertx.core.net.NetSocket'.(Â»è

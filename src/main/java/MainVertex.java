@@ -70,6 +70,12 @@ public class MainVertex extends AbstractVerticle{
                     .end("<h1>Hello from my first Vert.x 3 application</h1>");
         });
 
+        router.get("/health").handler(ctx -> {
+            ctx.response()
+                    .putHeader("content-type", "text/plain")
+                    .end("OK");
+        });
+
 
         router.route("/assets/all").handler(BodyHandler.create());
 
